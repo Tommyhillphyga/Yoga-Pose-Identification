@@ -1,6 +1,4 @@
 # YOLOv7 Yoga-Pose-Identification Tutorial
-# By Augmented Startups
-# Visit www.augmentedstartups.com
 
 import cv2
 import time
