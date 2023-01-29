@@ -12,9 +12,8 @@ pip install -r requirements.txt
 python pose-identification.py --poseweights yolov7-w6-pose.pt --source testvideo1.mp4
 ```
 
-#download YOLOv7 Pose weight
+#download YOLOv7 Pose weight <a href="https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-pose.pt"> Here </a>
 
-![Poseestimation](https://user-images.githubusercontent.com/62513924/184828485-ec0dbb52-6e20-47f1-94ec-03fd1c6cb5fb.png)
 
 #### References
 - https://github.com/WongKinYiu/yolov7
