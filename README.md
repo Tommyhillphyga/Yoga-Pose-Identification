@@ -1,6 +1,6 @@
 # A Yoga Pose Identification Application
 ### About 
-This app uses a YOLOV7 Pose Egit adstimation model and a lightweight weight TENSORFLOW LSTM model to detect human pose key points and classify six different yoga poses.
+This app uses a YOLOV7 Pose estimation model and a lightweight weight TENSORFLOW LSTM model to detect human pose key points and classify six different yoga poses.
 ### run Demo
 - Clone repo
 - install requirements
